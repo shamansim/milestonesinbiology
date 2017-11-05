@@ -17,3 +17,8 @@ Here I would like to gather the publications that leads to our actual knowledge,
 * [DNA Timeline](http://www.dnai.org/timeline/)
 * [History of Biology Timeline Project](https://www.preceden.com/timelines/20042-history-of-biology-timeline-project)
 * [Cell Biology Timeline: Major Events in the Field of Cell Biology](http://www.brighthub.com/science/genetics/articles/16717.aspx)
+* [Molecular Biology/Milestones](https://en.wikiversity.org/wiki/Molecular_Biology/Milestones)
+* [Milestones of Molecular Biology](http://www.laboratory-journal.com/science/life-sciences-biotech/milestones-molecular-biology)
+* [Milestones in biology](https://fr.slideshare.net/shubhakara.g/milestones-in-biology)
+* [Nature Milestones](http://www.nature.com/milestones/index.html)
+* [Cell biology – the milestones](http://www.cell.com/trends/cell-biology/abstract/S0962-8924(01)02066-9)
